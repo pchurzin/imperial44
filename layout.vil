@@ -25,7 +25,7 @@
         "KC_C",
         "KC_X",
         "KC_Z",
-        "TD(10)"
+        "KC_MINUS"
       ],
       [
         "KC_NO",
@@ -57,7 +57,7 @@
         "KC_COMMA",
         "KC_DOT",
         "KC_RBRACKET",
-        "TD(11)"
+        "KC_SLASH"
       ],
       [
         "KC_NO",
@@ -123,7 +123,7 @@
         "USER44",
         "USER45",
         "USER49",
-        "KC_TRNS"
+        "KC_SLASH"
       ],
       [
         "KC_NO",
@@ -1604,14 +1604,14 @@
     [
       "USER16",
       "MO(6)",
-      "USER17",
+      "M24",
       "KC_NO",
       200
     ],
     [
       "USER15",
       "MO(5)",
-      "KC_NO",
+      "M25",
       "KC_NO",
       200
     ],
@@ -2047,31 +2047,31 @@
   ],
   "key_override": [
     {
-      "trigger": "KC_NO",
-      "replacement": "KC_NO",
-      "layers": 0,
-      "trigger_mods": 4,
+      "trigger": "KC_SLASH",
+      "replacement": "KC_BSLASH",
+      "layers": 1,
+      "trigger_mods": 2,
       "negative_mod_mask": 0,
-      "suppressed_mods": 0,
-      "options": 1
+      "suppressed_mods": 2,
+      "options": 135
     },
     {
-      "trigger": "KC_NO",
-      "replacement": "USER04",
-      "layers": 0,
+      "trigger": "KC_SLASH",
+      "replacement": "LSFT(KC_BSLASH)",
+      "layers": 2,
       "trigger_mods": 0,
-      "negative_mod_mask": 0,
+      "negative_mod_mask": 2,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
-      "trigger": "KC_NO",
-      "replacement": "KC_NO",
-      "layers": 8,
-      "trigger_mods": 16,
+      "trigger": "KC_SLASH",
+      "replacement": "KC_BSLASH",
+      "layers": 2,
+      "trigger_mods": 2,
       "negative_mod_mask": 0,
-      "suppressed_mods": 0,
-      "options": 7
+      "suppressed_mods": 2,
+      "options": 135
     },
     {
       "trigger": "KC_NO",
