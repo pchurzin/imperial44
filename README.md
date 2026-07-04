@@ -29,17 +29,17 @@
 - 05 -
 - 06 -
 - 07 - `<SP>gr` (`<leader>gr` - go recent in vim/ideavim)
-- 08 - `<RuEn En>kubectl config use context<SP>`
+- 08 - `kubectl config use context<SP>`
 - 09 - `<LCTRL><LCTRL>` (idea run anything)
 - 10 - `<LSHIFT><LSHIFT>` (idea search anything)
 - 11 - `,<SP>`
 - 12 - `<SP>fb` (`<leader>fb` - fzf buffers in vim)
 - 13 - `<SP>fo` (`<leader>fo` - fzf files in vim)
-- 14 - `<LCTRL>+6` (alternate file in vim)
+- 14 -
 - 15 - `<SP>fj` (`<leader>fj` - fzf jumps in vim)
 - 16 - `<SP>fm` (`<leader>fm` - fzf marks in vim)
 - 17 - `<SP>j` (`<leader>j` - easymotion jump)
-- 18 - `<ESC>gwae` (reformat code)
+- 18 - `gwae` (reformat code)
 - 19 - `<SP>si` (`<leader>si` - show in project view in idea)
 - 20 - `<SP>fl` (`<leader>fl` - fzf lines in vim)
 - 21 - `<SP>gc` (`<leader>gc` - goto class in idea)

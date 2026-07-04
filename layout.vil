@@ -440,7 +440,7 @@
         "KC_NO"
       ],
       [
-        "M14",
+        "LCTL(KC_6)",
         "M15",
         "KC_NO",
         "KC_NO",
@@ -1324,6 +1324,11 @@
     ],
     [
       [
+        "tap",
+        "KC_ESCAPE",
+        "M25"
+      ],
+      [
         "text",
         " gr"
       ]
@@ -1331,7 +1336,7 @@
     [
       [
         "tap",
-        "USER10"
+        "M25"
       ],
       [
         "text",
@@ -1352,18 +1357,12 @@
         "KC_LSHIFT"
       ]
     ],
-    [
-      [
-        "tap",
-        "USER16",
-        "KC_SPACE"
-      ]
-    ],
+    [],
     [
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
@@ -1374,20 +1373,14 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
         " fo"
       ]
     ],
-    [
-      [
-        "tap",
-        "KC_ESCAPE",
-        "LCTL(KC_6)"
-      ]
-    ],
+    [],
     [
       [
         "tap",
@@ -1603,21 +1596,21 @@
     ],
     [
       "USER16",
-      "MO(6)",
+      "MO(7)",
       "M24",
       "KC_NO",
       200
     ],
     [
       "USER15",
-      "MO(5)",
+      "MO(6)",
       "M25",
       "KC_NO",
       200
     ],
     [
-      "KC_ENTER",
-      "MO(2)",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
@@ -1665,16 +1658,16 @@
       200
     ],
     [
-      "KC_KP_MINUS",
       "KC_NO",
-      "M25",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "USER21",
       "KC_NO",
-      "M24",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       200
     ],
