@@ -152,7 +152,7 @@
         "KC_KP_MINUS"
       ],
       [
-        "KC_NO",
+        "USER17",
         "USER20",
         "USER29",
         "KC_NO",
@@ -176,7 +176,7 @@
         "KC_NO"
       ],
       [
-        "USER19",
+        "USER36",
         "LSFT(KC_0)",
         "USER25",
         "USER27",
@@ -184,7 +184,7 @@
         "KC_KP_PLUS"
       ],
       [
-        "USER36",
+        "USER19",
         "USER18",
         "USER35",
         "KC_NO",
@@ -250,7 +250,7 @@
         "KC_KP_PLUS"
       ],
       [
-        "KC_NO",
+        "USER19",
         "KC_KP_ASTERISK",
         "USER15",
         "USER16",
