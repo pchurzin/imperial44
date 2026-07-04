@@ -79,9 +79,9 @@
       ],
       [
         "USER28",
-        "TD(6)",
-        "TD(5)",
-        "TD(4)",
+        "LSFT(KC_9)",
+        "USER24",
+        "USER26",
         "USER22",
         "KC_KP_MINUS"
       ],
@@ -111,9 +111,9 @@
       ],
       [
         "USER19",
-        "TD(7)",
-        "TD(8)",
-        "TD(9)",
+        "LSFT(KC_0)",
+        "USER25",
+        "USER27",
         "USER23",
         "KC_KP_PLUS"
       ],
@@ -145,10 +145,10 @@
       ],
       [
         "KC_5",
-        "LCTL_T(KC_4)",
-        "LSFT_T(KC_3)",
-        "LALT_T(KC_2)",
-        "LGUI_T(KC_1)",
+        "KC_4",
+        "KC_3",
+        "KC_2",
+        "KC_1",
         "KC_KP_MINUS"
       ],
       [
@@ -177,10 +177,10 @@
       ],
       [
         "KC_6",
-        "LCTL_T(KC_7)",
-        "LSFT_T(KC_8)",
-        "LALT_T(KC_9)",
-        "LGUI_T(KC_0)",
+        "KC_7",
+        "KC_8",
+        "KC_9",
+        "KC_0",
         "KC_KP_PLUS"
       ],
       [
@@ -1599,7 +1599,7 @@
     [
       "USER15",
       "MO(5)",
-      "USER21",
+      "KC_NO",
       "KC_NO",
       200
     ],
@@ -1660,7 +1660,7 @@
       200
     ],
     [
-      "LSFT(KC_MINUS)",
+      "USER21",
       "KC_NO",
       "USER11",
       "KC_NO",
@@ -2035,13 +2035,13 @@
   ],
   "key_override": [
     {
-      "trigger": "KC_ESCAPE",
-      "replacement": "KC_TAB",
-      "layers": 1,
+      "trigger": "KC_NO",
+      "replacement": "KC_NO",
+      "layers": 0,
       "trigger_mods": 4,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 129
+      "options": 1
     },
     {
       "trigger": "KC_NO",
@@ -2053,28 +2053,28 @@
       "options": 7
     },
     {
-      "trigger": "KC_UP",
-      "replacement": "LCTL(KC_WH_U)",
+      "trigger": "KC_NO",
+      "replacement": "KC_NO",
       "layers": 8,
       "trigger_mods": 16,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 135
-    },
-    {
-      "trigger": "KC_DOWN",
-      "replacement": "LCTL(KC_WH_D)",
-      "layers": 8,
-      "trigger_mods": 16,
-      "negative_mod_mask": 0,
-      "suppressed_mods": 0,
-      "options": 135
+      "options": 7
     },
     {
       "trigger": "KC_NO",
       "replacement": "KC_NO",
-      "layers": 1,
-      "trigger_mods": 0,
+      "layers": 8,
+      "trigger_mods": 16,
+      "negative_mod_mask": 0,
+      "suppressed_mods": 0,
+      "options": 7
+    },
+    {
+      "trigger": "KC_NO",
+      "replacement": "KC_DELETE",
+      "layers": 0,
+      "trigger_mods": 2,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
       "options": 7
