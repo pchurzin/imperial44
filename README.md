@@ -3,16 +3,16 @@
 ## Layers
 
 - 00 - basic qwerty
-- 01 - symbols
-- 02 - numbers, F-keys
-- 03 - nav (arrows, home, end, pgup, pgdwn)
-- 04 - idea
-- 05 - vim
-- 06 - text macros
-- 07
+- 01 - basic ицукен with ruen letters
+- 02 - symbols
+- 03 - numbers, F-keys
+- 04 - nav (arrows, home, end, pgup, pgdwn)
+- 05 - idea
+- 06 - vim
+- 07 - text macros
 - 08
-- 09 - for now only reboot command for kb
-- 10
+- 09
+- 10 - for now only reboot command for kb
 - 11
 - 12
 - 13
@@ -45,6 +45,8 @@
 - 21 - `<SP>gc` (`<leader>gc` - goto class in idea)
 - 22 - `<SP>gf` (`<leader>gf` - goto file in idea)
 - 23 - `<SP>fh` (`<leader>fh` - fzf old files and buffers in vim)
+- 24 - `TO(1) RuEn Ru`
+- 25 - `TO(0) RuEn En`
 
 ## Tap Dance
 
@@ -52,7 +54,7 @@
 |----|--------|------------|------------|--------------|
 | 00 | `Ж`    | `<LGUI>`   |            |              |
 | 01 | `,`    | `MO(6)`    | `;`        |              |
-| 02 | `.`    | `MO(5)`    | `/`        |              |
+| 02 | `.`    | `MO(5)`    |            |              |
 | 03 | `<NL>` | `MO(2)`    |            |              |
 | 04 | `<`    | `<LALT>`   |            |              |
 | 05 | `{`    | `<LSHIFT>` |            |              |
@@ -60,6 +62,6 @@
 | 07 | `)`    | `<LCTRL>`  |            |              |
 | 08 | `}`    | `<LSHIFT>` |            |              |
 | 09 | `>`    | `<LALT>`   |            |              |
-| 10 | `-`    | `RuEn En`  |            |              |
-| 11 | `_`    | `RuEn Ru`  |            |              |
+| 10 | `-`    |            | Macro25    |              |
+| 11 | `/`    |            | Macro24    |              |
 

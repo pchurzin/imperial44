@@ -9,7 +9,7 @@
         "KC_E",
         "KC_W",
         "KC_Q",
-        "USER50"
+        "KC_GRAVE"
       ],
       [
         "KC_G",
@@ -29,8 +29,8 @@
       ],
       [
         "KC_NO",
-        "LT3(KC_TAB)",
-        "LT1(KC_SPACE)",
+        "LT4(KC_TAB)",
+        "LT2(KC_SPACE)",
         "TD(2)",
         -1,
         -1
@@ -41,29 +41,95 @@
         "KC_I",
         "KC_O",
         "KC_P",
-        "USER48"
+        "KC_LBRACKET"
       ],
       [
         "KC_H",
         "LCTL_T(KC_J)",
         "LSFT_T(KC_K)",
         "LALT_T(KC_L)",
-        "TD(0)",
-        "USER47"
+        "LGUI_T(KC_SCOLON)",
+        "KC_QUOTE"
       ],
       [
         "KC_N",
         "KC_M",
-        "USER44",
-        "USER45",
-        "USER49",
+        "KC_COMMA",
+        "KC_DOT",
+        "KC_RBRACKET",
         "TD(11)"
       ],
       [
         "KC_NO",
-        "LT4(KC_BSPACE)",
-        "LT2(KC_ENTER)",
+        "LT5(KC_BSPACE)",
+        "LT3(KC_ENTER)",
         "TD(1)",
+        -1,
+        -1
+      ]
+    ],
+    [
+      [
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "USER50"
+      ],
+      [
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS"
+      ],
+      [
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS"
+      ],
+      [
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        -1,
+        -1
+      ],
+      [
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "USER48"
+      ],
+      [
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
+        "TD(0)",
+        "USER47"
+      ],
+      [
+        "KC_TRNS",
+        "KC_TRNS",
+        "USER44",
+        "USER45",
+        "USER49",
+        "KC_TRNS"
+      ],
+      [
+        "KC_NO",
+        "KC_TRNS",
+        "KC_TRNS",
+        "KC_TRNS",
         -1,
         -1
       ]
@@ -161,9 +227,9 @@
       ],
       [
         "KC_NO",
-        "LT11(KC_NO)",
-        "LT7(KC_SPACE)",
-        "LT13(KC_NO)",
+        "LT12(KC_NO)",
+        "LT8(KC_SPACE)",
+        "LT14(KC_NO)",
         -1,
         -1
       ],
@@ -259,9 +325,9 @@
       ],
       [
         "KC_NO",
-        "LT8(KC_NO)",
-        "LT11(KC_NO)",
-        "LT14(KC_NO)",
+        "LT9(KC_NO)",
+        "LT12(KC_NO)",
+        "LT15(KC_NO)",
         -1,
         -1
       ]
@@ -293,9 +359,9 @@
       ],
       [
         "KC_NO",
-        "LT8(KC_NO)",
-        "LT10(KC_NO)",
-        "LT15(KC_NO)",
+        "LT9(KC_NO)",
+        "LT11(KC_NO)",
+        "KC_TRNS",
         -1,
         -1
       ],
@@ -391,9 +457,9 @@
       ],
       [
         "KC_NO",
-        "LT15(KC_NO)",
-        "LT13(KC_NO)",
-        "LT9(KC_NO)",
+        "KC_TRNS",
+        "LT14(KC_NO)",
+        "LT10(KC_NO)",
         -1,
         -1
       ]
@@ -425,9 +491,9 @@
       ],
       [
         "KC_TRNS",
-        "LT14(KC_NO)",
-        "LT12(KC_NO)",
-        "LT9(KC_NO)",
+        "LT15(KC_NO)",
+        "LT13(KC_NO)",
+        "LT10(KC_NO)",
         -1,
         -1
       ],
@@ -620,72 +686,6 @@
         "KC_TRNS",
         "KC_TRNS",
         "USER09"
-      ],
-      [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        -1,
-        -1
-      ],
-      [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
-      ],
-      [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
-      ],
-      [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
-      ],
-      [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        -1,
-        -1
-      ]
-    ],
-    [
-      [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
-      ],
-      [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
-      ],
-      [
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS",
-        "KC_TRNS"
       ],
       [
         "KC_TRNS",
@@ -1493,8 +1493,20 @@
         " fh"
       ]
     ],
-    [],
-    [],
+    [
+      [
+        "tap",
+        "TO(1)",
+        "USER11"
+      ]
+    ],
+    [
+      [
+        "tap",
+        "TO(0)",
+        "USER10"
+      ]
+    ],
     [],
     [],
     [],
@@ -1655,14 +1667,14 @@
     [
       "KC_KP_MINUS",
       "KC_NO",
-      "USER10",
+      "M25",
       "KC_NO",
       200
     ],
     [
       "USER21",
       "KC_NO",
-      "USER11",
+      "M24",
       "KC_NO",
       200
     ],
