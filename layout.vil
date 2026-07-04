@@ -152,11 +152,11 @@
         "KC_KP_MINUS"
       ],
       [
-        "USER17",
-        "USER20",
-        "USER29",
         "KC_NO",
-        "KC_BSLASH",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
+        "KC_NO",
         "KC_TRNS"
       ],
       [
@@ -172,7 +172,7 @@
         "USER34",
         "LSFT(KC_8)",
         "KC_KP_EQUAL",
-        "LSFT(KC_MINUS)",
+        "USER17",
         "KC_NO"
       ],
       [
@@ -187,8 +187,8 @@
         "USER19",
         "USER18",
         "USER35",
-        "KC_NO",
-        "USER21",
+        "USER29",
+        "USER20",
         "KC_TRNS"
       ],
       [
@@ -254,7 +254,7 @@
         "KC_KP_ASTERISK",
         "USER15",
         "USER16",
-        "USER21",
+        "KC_NO",
         "KC_TRNS"
       ],
       [
@@ -1385,7 +1385,7 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
@@ -1396,7 +1396,7 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
@@ -1407,7 +1407,7 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10",
+        "M25",
         "KC_SPACE",
         "KC_J"
       ]
@@ -1416,7 +1416,7 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
@@ -1427,7 +1427,7 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
@@ -1446,7 +1446,7 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
@@ -1457,7 +1457,7 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
@@ -1468,7 +1468,7 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
@@ -1479,7 +1479,7 @@
       [
         "tap",
         "KC_ESCAPE",
-        "USER10"
+        "M25"
       ],
       [
         "text",
