@@ -229,7 +229,7 @@
         "KC_NO",
         "LT12(KC_NO)",
         "LT8(KC_SPACE)",
-        "LT14(KC_NO)",
+        "TD(10)",
         -1,
         -1
       ],
@@ -252,8 +252,8 @@
       [
         "USER19",
         "KC_KP_ASTERISK",
-        "USER15",
-        "USER16",
+        "KC_NO",
+        "KC_NO",
         "KC_NO",
         "KC_TRNS"
       ],
@@ -1658,9 +1658,9 @@
       200
     ],
     [
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
+      "USER15",
+      "MO(14)",
+      "USER16",
       "KC_NO",
       200
     ],
