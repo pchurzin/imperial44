@@ -28,7 +28,7 @@
         "KC_MINUS"
       ],
       [
-        "KC_NO",
+        "TD(12)",
         "LT4(KC_TAB)",
         "LT2(KC_SPACE)",
         "TD(2)",
@@ -60,7 +60,7 @@
         "KC_SLASH"
       ],
       [
-        "KC_NO",
+        "TD(11)",
         "LT5(KC_BSPACE)",
         "LT3(KC_ENTER)",
         "TD(1)",
@@ -251,7 +251,7 @@
       ],
       [
         "USER19",
-        "KC_KP_ASTERISK",
+        "USER18",
         "KC_NO",
         "KC_NO",
         "KC_NO",
@@ -457,7 +457,7 @@
       ],
       [
         "KC_NO",
-        "TD(3)",
+        "KC_TRNS",
         "LT14(KC_NO)",
         "LT10(KC_NO)",
         -1,
@@ -1609,9 +1609,9 @@
       200
     ],
     [
-      "M25",
       "KC_NO",
-      "M24",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       200
     ],
@@ -1667,14 +1667,14 @@
     [
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "M24",
       "KC_NO",
       200
     ],
     [
       "KC_NO",
       "KC_NO",
-      "KC_NO",
+      "M25",
       "KC_NO",
       200
     ],
