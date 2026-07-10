@@ -366,10 +366,10 @@
         -1
       ],
       [
-        "C_S(KC_F10)",
+        "KC_NO",
         "LSFT(KC_F10)",
         "LSFT(KC_F9)",
-        "C_S(KC_F9)",
+        "KC_NO",
         "KC_NO",
         "KC_NO"
       ],
