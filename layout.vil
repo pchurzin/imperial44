@@ -436,7 +436,7 @@
         "M12",
         "M23",
         "KC_NO",
-        "KC_NO",
+        "M27",
         "KC_NO"
       ],
       [
@@ -444,7 +444,7 @@
         "M15",
         "KC_NO",
         "KC_NO",
-        "KC_NO",
+        "M28",
         "KC_NO"
       ],
       [
@@ -453,7 +453,7 @@
         "KC_NO",
         "KC_NO",
         "KC_NO",
-        "KC_NO"
+        "M26"
       ],
       [
         "KC_NO",
@@ -1500,9 +1500,24 @@
         "USER10"
       ]
     ],
-    [],
-    [],
-    [],
+    [
+      [
+        "text",
+        " f/"
+      ]
+    ],
+    [
+      [
+        "text",
+        " fc"
+      ]
+    ],
+    [
+      [
+        "text",
+        " f:"
+      ]
+    ],
     [],
     [],
     [],
@@ -2082,7 +2097,7 @@
       "trigger_mods": 2,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2091,7 +2106,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2100,7 +2115,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2109,7 +2124,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2118,7 +2133,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2127,7 +2142,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2136,7 +2151,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2145,7 +2160,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2154,7 +2169,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2163,7 +2178,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2172,7 +2187,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2181,7 +2196,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2190,7 +2205,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2199,7 +2214,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2208,7 +2223,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2217,7 +2232,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2226,7 +2241,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2235,7 +2250,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2244,7 +2259,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2253,7 +2268,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2262,7 +2277,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2271,7 +2286,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2280,7 +2295,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2289,7 +2304,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2298,7 +2313,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2307,7 +2322,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2316,7 +2331,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     },
     {
       "trigger": "KC_NO",
@@ -2325,7 +2340,7 @@
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 7
+      "options": 135
     }
   ],
   "alt_repeat_key": [

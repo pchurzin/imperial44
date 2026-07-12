@@ -638,6 +638,8 @@
 <text x="1047.00" y="2756.95" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">FzfHist</text>
 <rect x="1087.50" y="2723.40" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="1161.50" y="2756.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
+<text x="1195.00" y="2781.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">M27</text>
+<text x="1195.00" y="2797.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">FzfCmd</text>
 <rect x="1235.50" y="2756.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="865.50" y="2808.50" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="899.00" y="2833.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">Ctrl</text>
@@ -648,6 +650,8 @@
 <rect x="1013.50" y="2790.00" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="1087.50" y="2797.40" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="1161.50" y="2830.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
+<text x="1195.00" y="2855.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">M28</text>
+<text x="1195.00" y="2871.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">Fzf-:</text>
 <rect x="1235.50" y="2830.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="791.50" y="2882.50" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="865.50" y="2882.50" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -660,6 +664,8 @@
 <rect x="1087.50" y="2871.40" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="1161.50" y="2904.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="1235.50" y="2904.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
+<text x="1269.00" y="2929.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">M26</text>
+<text x="1269.00" y="2945.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">Fzf-/</text>
 <rect x="784.16" y="2982.32" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 817.66 3015.82)" />
 <text x="814.69" y="3007.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 814.69 3007.66)">LT NINE(9)</text>
 <text x="820.21" y="3022.81" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 820.21 3022.81)">✕</text>
@@ -740,8 +746,8 @@
 <rect x="1087.50" y="3160.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="3193.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="3193.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="3218.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
-<text x="1195.00" y="3234.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">;</text>
+<text x="1195.00" y="3218.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M27</text>
+<text x="1195.00" y="3234.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfCmd</text>
 <rect x="1235.50" y="3193.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="3218.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1269.00" y="3234.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Х</text>
@@ -775,8 +781,8 @@
 <text x="1195.00" y="3366.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1195.00" y="3382.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">?</text>
 <rect x="1235.50" y="3341.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1269.00" y="3366.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">?</text>
-<text x="1269.00" y="3382.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">/</text>
+<text x="1269.00" y="3366.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M26</text>
+<text x="1269.00" y="3382.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Fzf-/</text>
 <rect x="784.16" y="3419.07" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 817.66 3452.57)" />
 <text x="814.69" y="3444.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 814.69 3444.41)">LT NINE(9)</text>
 <text x="820.21" y="3459.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 820.21 3459.57)">✕</text>
@@ -857,8 +863,8 @@
 <rect x="1087.50" y="3596.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="3630.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="3630.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="3655.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
-<text x="1195.00" y="3671.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">;</text>
+<text x="1195.00" y="3655.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M27</text>
+<text x="1195.00" y="3671.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfCmd</text>
 <rect x="1235.50" y="3630.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="3655.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1269.00" y="3671.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Х</text>
@@ -892,8 +898,8 @@
 <text x="1195.00" y="3803.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1195.00" y="3819.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">?</text>
 <rect x="1235.50" y="3778.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1269.00" y="3803.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">?</text>
-<text x="1269.00" y="3819.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">/</text>
+<text x="1269.00" y="3803.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M26</text>
+<text x="1269.00" y="3819.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Fzf-/</text>
 <rect x="784.16" y="3855.82" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 817.66 3889.32)" />
 <text x="814.69" y="3881.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 814.69 3881.16)">LT NINE(9)</text>
 <text x="820.21" y="3896.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 820.21 3896.32)">✕</text>
@@ -974,8 +980,8 @@
 <rect x="1087.50" y="4033.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="4067.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="4066.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="4091.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
-<text x="1195.00" y="4107.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">;</text>
+<text x="1195.00" y="4091.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M27</text>
+<text x="1195.00" y="4107.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfCmd</text>
 <rect x="1235.50" y="4066.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="4091.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1269.00" y="4107.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Х</text>
@@ -1009,8 +1015,8 @@
 <text x="1195.00" y="4239.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1195.00" y="4255.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">?</text>
 <rect x="1235.50" y="4214.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1269.00" y="4239.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">?</text>
-<text x="1269.00" y="4255.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">/</text>
+<text x="1269.00" y="4239.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M26</text>
+<text x="1269.00" y="4255.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Fzf-/</text>
 <rect x="784.16" y="4292.57" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 817.66 4326.07)" />
 <text x="814.69" y="4317.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 814.69 4317.91)">LT NINE(9)</text>
 <text x="820.21" y="4333.07" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 820.21 4333.07)">✕</text>
@@ -1090,8 +1096,8 @@
 <rect x="1087.50" y="4470.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="4503.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="4503.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="4528.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
-<text x="1195.00" y="4544.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">;</text>
+<text x="1195.00" y="4528.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M27</text>
+<text x="1195.00" y="4544.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfCmd</text>
 <rect x="1235.50" y="4503.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="4528.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1269.00" y="4544.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Х</text>
@@ -1125,8 +1131,8 @@
 <text x="1195.00" y="4676.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1195.00" y="4692.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">?</text>
 <rect x="1235.50" y="4651.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1269.00" y="4676.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">?</text>
-<text x="1269.00" y="4692.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">/</text>
+<text x="1269.00" y="4676.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M26</text>
+<text x="1269.00" y="4692.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Fzf-/</text>
 <rect x="784.16" y="4729.32" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 817.66 4762.82)" />
 <text x="814.69" y="4754.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 814.69 4754.66)">LT NINE(9)</text>
 <text x="820.21" y="4769.82" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 820.21 4769.82)">✕</text>
@@ -1206,8 +1212,8 @@
 <rect x="1087.50" y="4907.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="4940.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="4940.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="4965.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
-<text x="1195.00" y="4981.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">;</text>
+<text x="1195.00" y="4965.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M27</text>
+<text x="1195.00" y="4981.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfCmd</text>
 <rect x="1235.50" y="4940.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="4965.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1269.00" y="4981.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Х</text>
@@ -1241,8 +1247,8 @@
 <text x="1195.00" y="5113.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1195.00" y="5129.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">?</text>
 <rect x="1235.50" y="5088.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1269.00" y="5113.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">?</text>
-<text x="1269.00" y="5129.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">/</text>
+<text x="1269.00" y="5113.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M26</text>
+<text x="1269.00" y="5129.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Fzf-/</text>
 <rect x="784.16" y="5166.07" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 817.66 5199.57)" />
 <text x="814.69" y="5191.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 814.69 5191.41)">LT NINE(9)</text>
 <text x="820.21" y="5206.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 820.21 5206.57)">✕</text>
@@ -1322,8 +1328,8 @@
 <rect x="1087.50" y="5343.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="5377.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="5377.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="5402.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
-<text x="1195.00" y="5418.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">;</text>
+<text x="1195.00" y="5402.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M27</text>
+<text x="1195.00" y="5418.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfCmd</text>
 <rect x="1235.50" y="5377.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="5402.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1269.00" y="5418.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Х</text>
@@ -1357,8 +1363,8 @@
 <text x="1195.00" y="5550.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1195.00" y="5566.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">?</text>
 <rect x="1235.50" y="5525.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1269.00" y="5550.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">?</text>
-<text x="1269.00" y="5566.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">/</text>
+<text x="1269.00" y="5550.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M26</text>
+<text x="1269.00" y="5566.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Fzf-/</text>
 <rect x="784.16" y="5602.82" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 817.66 5636.32)" />
 <text x="814.69" y="5628.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 814.69 5628.16)">LT NINE(9)</text>
 <text x="820.21" y="5643.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 820.21 5643.32)">✕</text>
@@ -1438,8 +1444,8 @@
 <rect x="1087.50" y="5780.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="5814.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="5813.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="5838.78" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
-<text x="1195.00" y="5854.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">;</text>
+<text x="1195.00" y="5838.78" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M27</text>
+<text x="1195.00" y="5854.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfCmd</text>
 <rect x="1235.50" y="5813.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="5838.78" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1269.00" y="5854.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Х</text>
@@ -1473,8 +1479,8 @@
 <text x="1195.00" y="5986.78" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1195.00" y="6002.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">?</text>
 <rect x="1235.50" y="5961.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1269.00" y="5986.78" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">?</text>
-<text x="1269.00" y="6002.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">/</text>
+<text x="1269.00" y="5986.78" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M26</text>
+<text x="1269.00" y="6002.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Fzf-/</text>
 <rect x="784.16" y="6039.57" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 817.66 6073.07)" />
 <text x="814.69" y="6064.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 814.69 6064.91)">LT NINE(9)</text>
 <text x="820.21" y="6080.07" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 820.21 6080.07)">✕</text>
@@ -1554,8 +1560,8 @@
 <rect x="1087.50" y="6217.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="6250.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="6250.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="6275.53" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
-<text x="1195.00" y="6291.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">;</text>
+<text x="1195.00" y="6275.53" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M27</text>
+<text x="1195.00" y="6291.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfCmd</text>
 <rect x="1235.50" y="6250.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="6275.53" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1269.00" y="6291.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Х</text>
@@ -1589,8 +1595,8 @@
 <text x="1195.00" y="6423.53" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
 <text x="1195.00" y="6439.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">?</text>
 <rect x="1235.50" y="6398.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1269.00" y="6423.53" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">?</text>
-<text x="1269.00" y="6439.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">/</text>
+<text x="1269.00" y="6423.53" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M26</text>
+<text x="1269.00" y="6439.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">Fzf-/</text>
 <rect x="784.16" y="6476.33" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 817.66 6509.83)" />
 <text x="814.69" y="6501.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 814.69 6501.66)">LT NINE(9)</text>
 <text x="820.21" y="6516.82" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 820.21 6516.82)">✕</text>
