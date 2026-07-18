@@ -605,6 +605,8 @@
 <text x="381.00" y="2764.35" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">Fmt</text>
 <rect x="421.50" y="2734.50" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="51.50" y="2830.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
+<text x="85.00" y="2855.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">M11</text>
+<text x="85.00" y="2871.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="12.79" fill="#1C1C20">NormMod</text>
 <rect x="125.50" y="2830.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="199.50" y="2797.40" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="273.50" y="2790.00" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
