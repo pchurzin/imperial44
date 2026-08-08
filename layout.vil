@@ -31,7 +31,7 @@
         "TD(12)",
         "LT4(KC_TAB)",
         "LT2(KC_SPACE)",
-        "TD(2)",
+        "LT6(KC_DOT)",
         -1,
         -1
       ],
@@ -63,7 +63,7 @@
         "TD(11)",
         "LT5(KC_BSPACE)",
         "LT3(KC_ENTER)",
-        "TD(1)",
+        "LT7(KC_NO)",
         -1,
         -1
       ]
@@ -97,7 +97,7 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_TRNS",
+        "LT6(KC_SLASH)",
         -1,
         -1
       ],
@@ -193,7 +193,7 @@
       ],
       [
         "KC_NO",
-        "LT10(KC_DELETE)",
+        "LT10(KC_NO)",
         "LT7(KC_ENTER)",
         "LT12(KC_NO)",
         -1,
@@ -229,7 +229,7 @@
         "KC_NO",
         "LT12(KC_NO)",
         "LT8(KC_SPACE)",
-        "TD(10)",
+        "KC_TRNS",
         -1,
         -1
       ],
@@ -244,7 +244,7 @@
       [
         "KC_6",
         "KC_7",
-        "KC_8",
+        "LSFT_T(KC_8)",
         "KC_9",
         "KC_0",
         "KC_KP_PLUS"
@@ -285,7 +285,7 @@
       ],
       [
         "KC_NO",
-        "KC_NO",
+        "M29",
         "KC_NO",
         "KC_NO",
         "KC_NO",
@@ -336,7 +336,7 @@
       [
         "KC_NO",
         "LALT(KC_INSERT)",
-        "M7",
+        "KC_NO",
         "KC_NO",
         "LCTL(KC_F2)",
         "KC_NO"
@@ -351,8 +351,8 @@
       ],
       [
         "LCTL(KC_F8)",
-        "M21",
-        "M22",
+        "KC_NO",
+        "KC_NO",
         "KC_NO",
         "LCA(KC_Z)",
         "KC_NO"
@@ -366,7 +366,7 @@
         -1
       ],
       [
-        "KC_NO",
+        "M21",
         "LSFT(KC_F10)",
         "LSFT(KC_F9)",
         "KC_NO",
@@ -413,7 +413,7 @@
         "KC_NO",
         "KC_NO",
         "KC_NO",
-        "KC_NO"
+        "M11"
       ],
       [
         "KC_NO",
@@ -1357,7 +1357,21 @@
         "KC_LSHIFT"
       ]
     ],
-    [],
+    [
+      [
+        "down",
+        "KC_LCTRL"
+      ],
+      [
+        "tap",
+        "KC_BSLASH",
+        "KC_N"
+      ],
+      [
+        "up",
+        "KC_LCTRL"
+      ]
+    ],
     [
       [
         "tap",
@@ -1518,7 +1532,24 @@
         " f:"
       ]
     ],
-    [],
+    [
+      [
+        "down",
+        "KC_LCTRL"
+      ],
+      [
+        "tap",
+        "KC_B"
+      ],
+      [
+        "up",
+        "KC_LCTRL"
+      ],
+      [
+        "tap",
+        "KC_LBRACKET"
+      ]
+    ],
     [],
     [],
     [],
@@ -2082,31 +2113,31 @@
       "options": 135
     },
     {
-      "trigger": "KC_NO",
-      "replacement": "KC_NO",
-      "layers": 0,
-      "trigger_mods": 0,
-      "negative_mod_mask": 0,
-      "suppressed_mods": 0,
-      "options": 135
-    },
-    {
-      "trigger": "KC_NO",
-      "replacement": "KC_DELETE",
-      "layers": 0,
+      "trigger": "LT6(KC_DOT)",
+      "replacement": "KC_COMMA",
+      "layers": 9,
       "trigger_mods": 2,
-      "negative_mod_mask": 0,
-      "suppressed_mods": 0,
+      "negative_mod_mask": 13,
+      "suppressed_mods": 2,
+      "options": 135
+    },
+    {
+      "trigger": "LT5(KC_BSPACE)",
+      "replacement": "KC_DELETE",
+      "layers": 1,
+      "trigger_mods": 2,
+      "negative_mod_mask": 13,
+      "suppressed_mods": 2,
       "options": 135
     },
     {
       "trigger": "KC_NO",
       "replacement": "KC_NO",
-      "layers": 65535,
+      "layers": 0,
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 135
+      "options": 7
     },
     {
       "trigger": "KC_NO",
