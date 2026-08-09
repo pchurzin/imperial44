@@ -1,8 +1,8 @@
 {
   "format": "entropy.layout",
-  "version": 4,
+  "version": 5,
   "created_by": "Entropy",
-  "created_at": "2026-08-06T08:49:44.248806557+03:00",
+  "created_at": "2026-08-09T12:12:04.000946328+03:00",
   "keyboard": {
     "name": "Imperial44 v3/v4",
     "firmware": "Vial",
@@ -1052,7 +1052,7 @@
         25,
         5,
         22284,
-        22274,
+        17975,
         16940,
         17451,
         28,
@@ -1065,7 +1065,7 @@
         8461,
         8718,
         9231,
-        10291,
+        10240,
         52,
         22283,
         17,
@@ -1076,7 +1076,7 @@
         56,
         17706,
         17192,
-        22273
+        18228
       ],
       [
         32306,
@@ -1098,7 +1098,7 @@
         1,
         1,
         1,
-        1,
+        17976,
         1,
         1,
         1,
@@ -1122,7 +1122,7 @@
         56,
         1,
         1,
-        1
+        18207
       ],
       [
         32293,
@@ -1166,7 +1166,7 @@
         32285,
         32276,
         1,
-        19020,
+        18944,
         18216,
         19456
       ],
@@ -1190,7 +1190,7 @@
         0,
         0,
         0,
-        22282,
+        1,
         18476,
         19456,
         0,
@@ -1201,7 +1201,7 @@
         0,
         35,
         36,
-        37,
+        8741,
         38,
         39,
         87,
@@ -1868,8 +1868,8 @@
       ]
     ],
     "encoder_visibility": [
-      true,
-      true
+      false,
+      false
     ],
     "layout_options": 219,
     "layer_names": [
@@ -2806,83 +2806,83 @@
           "options": 135
         },
         {
-          "trigger": 0,
-          "replacement": 0,
-          "layers": 0,
-          "trigger_mods": 0,
-          "negative_mod_mask": 0,
-          "suppressed_mods": 0,
-          "options": 135
-        },
-        {
-          "trigger": 0,
-          "replacement": 76,
-          "layers": 0,
+          "trigger": 17975,
+          "replacement": 54,
+          "layers": 9,
           "trigger_mods": 2,
-          "negative_mod_mask": 0,
+          "negative_mod_mask": 13,
+          "suppressed_mods": 2,
+          "options": 135
+        },
+        {
+          "trigger": 17706,
+          "replacement": 76,
+          "layers": 1,
+          "trigger_mods": 2,
+          "negative_mod_mask": 13,
+          "suppressed_mods": 2,
+          "options": 135
+        },
+        {
+          "trigger": 17975,
+          "replacement": 51,
+          "layers": 1,
+          "trigger_mods": 8,
+          "negative_mod_mask": 7,
+          "suppressed_mods": 8,
+          "options": 135
+        },
+        {
+          "trigger": 17976,
+          "replacement": 545,
+          "layers": 2,
+          "trigger_mods": 8,
+          "negative_mod_mask": 7,
+          "suppressed_mods": 8,
+          "options": 135
+        },
+        {
+          "trigger": 18228,
+          "replacement": 564,
+          "layers": 1,
+          "trigger_mods": 0,
+          "negative_mod_mask": 15,
           "suppressed_mods": 0,
           "options": 135
         },
         {
-          "trigger": 0,
-          "replacement": 0,
-          "layers": 65535,
+          "trigger": 18207,
+          "replacement": 543,
+          "layers": 2,
           "trigger_mods": 0,
-          "negative_mod_mask": 0,
+          "negative_mod_mask": 15,
           "suppressed_mods": 0,
           "options": 135
         },
         {
-          "trigger": 0,
-          "replacement": 0,
-          "layers": 65535,
-          "trigger_mods": 0,
-          "negative_mod_mask": 0,
+          "trigger": 45,
+          "replacement": 558,
+          "layers": 3,
+          "trigger_mods": 8,
+          "negative_mod_mask": 7,
+          "suppressed_mods": 8,
+          "options": 135
+        },
+        {
+          "trigger": 18228,
+          "replacement": 51,
+          "layers": 1,
+          "trigger_mods": 2,
+          "negative_mod_mask": 13,
           "suppressed_mods": 0,
           "options": 135
         },
         {
-          "trigger": 0,
-          "replacement": 0,
-          "layers": 65535,
-          "trigger_mods": 0,
-          "negative_mod_mask": 0,
-          "suppressed_mods": 0,
-          "options": 135
-        },
-        {
-          "trigger": 0,
-          "replacement": 0,
-          "layers": 65535,
-          "trigger_mods": 0,
-          "negative_mod_mask": 0,
-          "suppressed_mods": 0,
-          "options": 135
-        },
-        {
-          "trigger": 0,
-          "replacement": 0,
-          "layers": 65535,
-          "trigger_mods": 0,
-          "negative_mod_mask": 0,
-          "suppressed_mods": 0,
-          "options": 135
-        },
-        {
-          "trigger": 0,
-          "replacement": 0,
-          "layers": 65535,
-          "trigger_mods": 0,
-          "negative_mod_mask": 0,
-          "suppressed_mods": 0,
-          "options": 135
-        },
-        {
-          "trigger": 0,
-          "replacement": 0,
-          "layers": 65535,
-          "trigger_mods": 0,
-          "negative_mod_mask": 0,
+          "trigger": 18207,
+          "replacement": 35,
+          "layers": 2,
+          "trigger_mods": 2,
+          "negative_mod_mask": 13,
           "suppressed_mods": 0,
           "options": 135
         },
@@ -3331,6 +3331,158 @@
         "",
         ""
       ]
-    }
+    },
+    "portable_settings": [
+      {
+        "id": "grave_escape",
+        "qsid": 1,
+        "width": "u8",
+        "value": 0
+      },
+      {
+        "id": "auto_shift_flags",
+        "qsid": 3,
+        "width": "u8",
+        "value": 0
+      },
+      {
+        "id": "auto_shift_timeout",
+        "qsid": 4,
+        "width": "u16",
+        "value": 175
+      },
+      {
+        "id": "one_shot_tap_toggle",
+        "qsid": 5,
+        "width": "u8",
+        "value": 5
+      },
+      {
+        "id": "one_shot_timeout",
+        "qsid": 6,
+        "width": "u16",
+        "value": 5000
+      },
+      {
+        "id": "tapping_term",
+        "qsid": 7,
+        "width": "u16",
+        "value": 250
+      },
+      {
+        "id": "mouse_keys_delay",
+        "qsid": 9,
+        "width": "u8",
+        "value": 10
+      },
+      {
+        "id": "mouse_keys_interval",
+        "qsid": 10,
+        "width": "u8",
+        "value": 20
+      },
+      {
+        "id": "mouse_keys_move_delta",
+        "qsid": 11,
+        "width": "u8",
+        "value": 8
+      },
+      {
+        "id": "mouse_keys_max_speed",
+        "qsid": 12,
+        "width": "u8",
+        "value": 10
+      },
+      {
+        "id": "mouse_keys_time_to_max",
+        "qsid": 13,
+        "width": "u8",
+        "value": 30
+      },
+      {
+        "id": "mouse_keys_wheel_delay",
+        "qsid": 14,
+        "width": "u8",
+        "value": 10
+      },
+      {
+        "id": "mouse_keys_wheel_interval",
+        "qsid": 15,
+        "width": "u8",
+        "value": 80
+      },
+      {
+        "id": "mouse_keys_wheel_max_speed",
+        "qsid": 16,
+        "width": "u8",
+        "value": 8
+      },
+      {
+        "id": "mouse_keys_wheel_time_to_max",
+        "qsid": 17,
+        "width": "u8",
+        "value": 40
+      },
+      {
+        "id": "tap_code_delay",
+        "qsid": 18,
+        "width": "u16",
+        "value": 0
+      },
+      {
+        "id": "tap_hold_caps_delay",
+        "qsid": 19,
+        "width": "u16",
+        "value": 80
+      },
+      {
+        "id": "tapping_toggle",
+        "qsid": 20,
+        "width": "u8",
+        "value": 5
+      },
+      {
+        "id": "magic",
+        "qsid": 21,
+        "width": "u16",
+        "value": 0
+      },
+      {
+        "id": "permissive_hold",
+        "qsid": 22,
+        "width": "u8",
+        "value": 1
+      },
+      {
+        "id": "hold_on_other_key_press",
+        "qsid": 23,
+        "width": "u8",
+        "value": 0
+      },
+      {
+        "id": "retro_tapping",
+        "qsid": 24,
+        "width": "u8",
+        "value": 0
+      },
+      {
+        "id": "quick_tap_term",
+        "qsid": 25,
+        "width": "u16",
+        "value": 0
+      },
+      {
+        "id": "chordal_hold",
+        "qsid": 26,
+        "width": "u8",
+        "value": 1
+      },
+      {
+        "id": "flow_tap",
+        "qsid": 27,
+        "width": "u16",
+        "value": 150
+      }
+    ]
   }
 }
