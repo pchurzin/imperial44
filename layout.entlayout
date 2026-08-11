@@ -2,7 +2,7 @@
   "format": "entropy.layout",
   "version": 5,
   "created_by": "Entropy",
-  "created_at": "2026-08-09T12:42:56.289152973+03:00",
+  "created_at": "2026-08-11T22:25:53.609371385+03:00",
   "keyboard": {
     "name": "Imperial44 v3/v4",
     "firmware": "Vial",
@@ -1076,7 +1076,7 @@
         56,
         17706,
         17192,
-        18228
+        22275
       ],
       [
         1,
@@ -1122,7 +1122,7 @@
         56,
         1,
         1,
-        18207
+        22285
       ],
       [
         32293,
@@ -2538,8 +2538,8 @@
           "tapping_term": 200
         },
         {
-          "on_tap": 0,
-          "on_hold": 0,
+          "on_tap": 563,
+          "on_hold": 21031,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
@@ -2608,8 +2608,8 @@
           "tapping_term": 200
         },
         {
-          "on_tap": 0,
-          "on_hold": 0,
+          "on_tap": 547,
+          "on_hold": 21031,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
@@ -2846,18 +2846,18 @@
           "replacement": 564,
           "layers": 1,
           "trigger_mods": 0,
-          "negative_mod_mask": 15,
+          "negative_mod_mask": 0,
           "suppressed_mods": 0,
-          "options": 135
+          "options": 7
         },
         {
           "trigger": 18207,
           "replacement": 543,
           "layers": 2,
           "trigger_mods": 0,
-          "negative_mod_mask": 15,
+          "negative_mod_mask": 0,
           "suppressed_mods": 0,
-          "options": 135
+          "options": 7
         },
         {
           "trigger": 45,
@@ -2869,20 +2869,20 @@
           "options": 135
         },
         {
-          "trigger": 18228,
-          "replacement": 51,
+          "trigger": 22275,
+          "replacement": 52,
           "layers": 1,
           "trigger_mods": 2,
-          "negative_mod_mask": 13,
+          "negative_mod_mask": 0,
           "suppressed_mods": 0,
           "options": 135
         },
         {
-          "trigger": 18207,
-          "replacement": 35,
+          "trigger": 22285,
+          "replacement": 31,
           "layers": 2,
           "trigger_mods": 2,
-          "negative_mod_mask": 13,
+          "negative_mod_mask": 0,
           "suppressed_mods": 0,
           "options": 135
         },
@@ -2898,7 +2898,7 @@
         {
           "trigger": 0,
           "replacement": 0,
-          "layers": 2,
+          "layers": 0,
           "trigger_mods": 0,
           "negative_mod_mask": 0,
           "suppressed_mods": 0,

@@ -63,7 +63,7 @@
         "TD(11)",
         "LT5(KC_BSPACE)",
         "LT3(KC_ENTER)",
-        "LT7(KC_QUOTE)",
+        "TD(3)",
         -1,
         -1
       ]
@@ -129,7 +129,7 @@
         "KC_NO",
         "KC_TRNS",
         "KC_TRNS",
-        "LT7(KC_2)",
+        "TD(13)",
         -1,
         -1
       ]
@@ -1655,8 +1655,8 @@
       200
     ],
     [
-      "KC_NO",
-      "KC_NO",
+      "LSFT(KC_SCOLON)",
+      "MO(7)",
       "KC_NO",
       "KC_NO",
       200
@@ -1725,8 +1725,8 @@
       200
     ],
     [
-      "KC_NO",
-      "KC_NO",
+      "LSFT(KC_6)",
+      "MO(7)",
       "KC_NO",
       "KC_NO",
       200
@@ -2153,18 +2153,18 @@
       "replacement": "LSFT(KC_QUOTE)",
       "layers": 1,
       "trigger_mods": 0,
-      "negative_mod_mask": 15,
+      "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 135
+      "options": 7
     },
     {
       "trigger": "LT7(KC_2)",
       "replacement": "LSFT(KC_2)",
       "layers": 2,
       "trigger_mods": 0,
-      "negative_mod_mask": 15,
+      "negative_mod_mask": 0,
       "suppressed_mods": 0,
-      "options": 135
+      "options": 7
     },
     {
       "trigger": "KC_MINUS",
@@ -2176,20 +2176,20 @@
       "options": 135
     },
     {
-      "trigger": "LT7(KC_QUOTE)",
-      "replacement": "KC_SCOLON",
+      "trigger": "TD(3)",
+      "replacement": "KC_QUOTE",
       "layers": 1,
       "trigger_mods": 2,
-      "negative_mod_mask": 13,
+      "negative_mod_mask": 0,
       "suppressed_mods": 0,
       "options": 135
     },
     {
-      "trigger": "LT7(KC_2)",
-      "replacement": "KC_6",
+      "trigger": "TD(13)",
+      "replacement": "KC_2",
       "layers": 2,
       "trigger_mods": 2,
-      "negative_mod_mask": 13,
+      "negative_mod_mask": 0,
       "suppressed_mods": 0,
       "options": 135
     },
@@ -2205,7 +2205,7 @@
     {
       "trigger": "KC_NO",
       "replacement": "KC_NO",
-      "layers": 2,
+      "layers": 0,
       "trigger_mods": 0,
       "negative_mod_mask": 0,
       "suppressed_mods": 0,
