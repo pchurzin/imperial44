@@ -1,8 +1,8 @@
 {
   "format": "entropy.layout",
-  "version": 5,
+  "version": 7,
   "created_by": "Entropy",
-  "created_at": "2026-08-11T22:25:53.609371385+03:00",
+  "created_at": "2026-08-16T12:03:20.150958044+03:00",
   "keyboard": {
     "name": "Imperial44 v3/v4",
     "firmware": "Vial",
@@ -1379,7 +1379,7 @@
         1,
         1,
         1,
-        30472,
+        1,
         1,
         1,
         1,
@@ -1907,7 +1907,7 @@
         "AQLhAQLgAQJPAQNPAQPgAQPhAQFM",
         "AQLhAQJKAQNKAQPhAQFM",
         "AQEpAQUZdyBncg==",
-        "AQUZd2t1YmVjdGwgY29uZmlnIHVzZS1jb250ZXh0IA==",
+        "",
         "AQHgAQHg",
         "AQHhAQHh",
         "AQLgAQExAQERAQPg",
@@ -1925,9 +1925,9 @@
         "AQEpAQUZdyBmaA==",
         "AQUBUgEFC34=",
         "AQVS/wEFCn4=",
-        "IGYv",
-        "IGZj",
-        "IGY6",
+        "AQEpAQUZdyBmLw==",
+        "AQEpAQUZdyBmYw==",
+        "AQEpAQUZdyBmOg==",
         "AQLgAQEFAQPgAQEv",
         "",
         "",
@@ -2157,15 +2157,6 @@
       "entries": [
         {
           "keys": [
-            225,
-            229,
-            0,
-            0
-          ],
-          "output": 57
-        },
-        {
-          "keys": [
             0,
             0,
             0,
@@ -2175,12 +2166,12 @@
         },
         {
           "keys": [
-            32271,
-            32272,
+            0,
+            0,
             0,
             0
           ],
-          "output": 32273
+          "output": 0
         },
         {
           "keys": [
@@ -2310,12 +2301,21 @@
         },
         {
           "keys": [
-            23,
-            32271,
+            0,
+            0,
             0,
             0
           ],
-          "output": 32306
+          "output": 0
+        },
+        {
+          "keys": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "output": 0
         },
         {
           "keys": [
@@ -2517,22 +2517,22 @@
     "tap_dance": {
       "entries": [
         {
-          "on_tap": 32302,
-          "on_hold": 227,
+          "on_tap": 0,
+          "on_hold": 0,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
         },
         {
-          "on_tap": 32272,
-          "on_hold": 21031,
+          "on_tap": 0,
+          "on_hold": 0,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
         },
         {
-          "on_tap": 32271,
-          "on_hold": 21030,
+          "on_tap": 0,
+          "on_hold": 0,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
@@ -2545,51 +2545,51 @@
           "tapping_term": 200
         },
         {
-          "on_tap": 32282,
-          "on_hold": 226,
+          "on_tap": 0,
+          "on_hold": 0,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
         },
         {
-          "on_tap": 32280,
-          "on_hold": 225,
+          "on_tap": 0,
+          "on_hold": 0,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
         },
         {
-          "on_tap": 550,
-          "on_hold": 224,
+          "on_tap": 0,
+          "on_hold": 0,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
         },
         {
-          "on_tap": 551,
-          "on_hold": 224,
+          "on_tap": 0,
+          "on_hold": 0,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
         },
         {
-          "on_tap": 32281,
-          "on_hold": 225,
+          "on_tap": 0,
+          "on_hold": 0,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
         },
         {
-          "on_tap": 32283,
-          "on_hold": 226,
+          "on_tap": 0,
+          "on_hold": 0,
           "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
         },
         {
-          "on_tap": 32271,
-          "on_hold": 21038,
-          "on_double_tap": 32272,
+          "on_tap": 0,
+          "on_hold": 0,
+          "on_double_tap": 0,
           "on_tap_hold": 0,
           "tapping_term": 200
         },
@@ -2861,7 +2861,7 @@
         },
         {
           "trigger": 45,
-          "replacement": 558,
+          "replacement": 87,
           "layers": 3,
           "trigger_mods": 8,
           "negative_mod_mask": 7,

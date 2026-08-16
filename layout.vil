@@ -500,7 +500,7 @@
       [
         "KC_TRNS",
         "KC_TRNS",
-        "M8",
+        "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS"
@@ -1333,16 +1333,7 @@
         " gr"
       ]
     ],
-    [
-      [
-        "tap",
-        "M25"
-      ],
-      [
-        "text",
-        "kubectl config use-context "
-      ]
-    ],
+    [],
     [
       [
         "tap",
@@ -1516,17 +1507,32 @@
     ],
     [
       [
+        "tap",
+        "KC_ESCAPE",
+        "M25"
+      ],
+      [
         "text",
         " f/"
       ]
     ],
     [
       [
+        "tap",
+        "KC_ESCAPE",
+        "M25"
+      ],
+      [
         "text",
         " fc"
       ]
     ],
     [
+      [
+        "tap",
+        "KC_ESCAPE",
+        "M25"
+      ],
       [
         "text",
         " f:"
@@ -1634,22 +1640,22 @@
   "via_protocol": 9,
   "tap_dance": [
     [
-      "USER46",
-      "KC_LGUI",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "USER16",
-      "MO(7)",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "USER15",
-      "MO(6)",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
@@ -1662,51 +1668,51 @@
       200
     ],
     [
-      "USER26",
-      "KC_LALT",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "USER24",
-      "KC_LSHIFT",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "LSFT(KC_9)",
-      "KC_LCTRL",
+      "LSFT(KC_NO)",
       "KC_NO",
-      "KC_NO",
-      200
-    ],
-    [
-      "LSFT(KC_0)",
-      "KC_LCTRL",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "USER25",
-      "KC_LSHIFT",
+      "LSFT(KC_NO)",
       "KC_NO",
-      "KC_NO",
-      200
-    ],
-    [
-      "USER27",
-      "KC_LALT",
       "KC_NO",
       "KC_NO",
       200
     ],
     [
-      "USER15",
-      "MO(14)",
-      "USER16",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      200
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      200
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
       "KC_NO",
       200
     ],
@@ -1860,13 +1866,6 @@
   ],
   "combo": [
     [
-      "KC_LSHIFT",
-      "KC_RSHIFT",
-      "KC_NO",
-      "KC_NO",
-      "KC_CAPSLOCK"
-    ],
-    [
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -1874,11 +1873,11 @@
       "KC_NO"
     ],
     [
-      "USER15",
-      "USER16",
       "KC_NO",
       "KC_NO",
-      "USER17"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
       "KC_NO",
@@ -1979,11 +1978,18 @@
       "KC_NO"
     ],
     [
-      "KC_T",
-      "USER15",
       "KC_NO",
       "KC_NO",
-      "USER50"
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
     ],
     [
       "KC_NO",
@@ -2168,7 +2174,7 @@
     },
     {
       "trigger": "KC_MINUS",
-      "replacement": "LSFT(KC_EQUAL)",
+      "replacement": "KC_KP_PLUS",
       "layers": 3,
       "trigger_mods": 8,
       "negative_mod_mask": 7,

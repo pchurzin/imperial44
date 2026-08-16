@@ -112,6 +112,14 @@
 <text x="894.81" y="390.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20" transform="rotate(-20.000 894.81 390.91)">Enter</text>
 <rect x="933.36" y="339.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 372.51)" />
 <text x="966.86" y="372.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20" transform="rotate(-20.000 966.86 372.51)">TD3</text>
+<circle cx="603.00" cy="295.50" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="295.50" x2="625.19" y2="295.50" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="282.49" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#1C1C20">Vol +</text>
+<text x="603.00" y="310.04" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#1C1C20">Vol -</text>
+<circle cx="751.00" cy="295.50" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="295.50" x2="773.19" y2="295.50" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="282.49" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#1C1C20">Vol +</text>
+<text x="751.00" y="310.04" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#1C1C20">Vol -</text>
 <text x="677.00" y="502.75" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">1. RuBase</text>
 <rect x="51.50" y="572.95" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="597.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">~</text>
@@ -224,6 +232,14 @@
 <text x="894.81" y="827.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 894.81 827.66)">Enter</text>
 <rect x="933.36" y="775.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 809.26)" />
 <text x="966.86" y="809.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20" transform="rotate(-20.000 966.86 809.26)">TD13</text>
+<circle cx="603.00" cy="732.25" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="732.25" x2="625.19" y2="732.25" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="719.24" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="746.79" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="732.25" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="732.25" x2="773.19" y2="732.25" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="719.24" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="746.79" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="939.50" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">2. Sym</text>
 <rect x="51.50" y="1009.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="1034.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">RuEn</text>
@@ -327,6 +343,14 @@
 <rect x="933.36" y="1212.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 1246.01)" />
 <text x="963.89" y="1237.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688" transform="rotate(-20.000 963.89 1237.85)">LT 12</text>
 <text x="969.41" y="1253.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20" transform="rotate(-20.000 969.41 1253.01)">✕</text>
+<circle cx="603.00" cy="1169.00" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="1169.00" x2="625.19" y2="1169.00" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="1155.99" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="1183.54" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="1169.00" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="1169.00" x2="773.19" y2="1169.00" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="1155.99" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="1183.54" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="1376.25" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">3. Num</text>
 <rect x="51.50" y="1446.45" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="125.50" y="1446.45" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -413,6 +437,14 @@
 <rect x="933.36" y="1649.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 1682.76)" />
 <text x="963.89" y="1674.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 1674.60)">LT 12</text>
 <text x="969.41" y="1689.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 1689.76)">✕</text>
+<circle cx="603.00" cy="1605.75" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="1605.75" x2="625.19" y2="1605.75" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="1592.74" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="1620.29" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="1605.75" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="1605.75" x2="773.19" y2="1605.75" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="1592.74" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="1620.29" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="1813.00" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">4. Nav</text>
 <rect x="51.50" y="1883.20" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="125.50" y="1883.20" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -496,6 +528,14 @@
 <rect x="933.36" y="2086.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 2119.51)" />
 <text x="963.89" y="2111.35" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688" transform="rotate(-20.000 963.89 2111.35)">LT 15</text>
 <text x="969.41" y="2126.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20" transform="rotate(-20.000 969.41 2126.51)">✕</text>
+<circle cx="603.00" cy="2042.50" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="2042.50" x2="625.19" y2="2042.50" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="2029.50" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="2057.04" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="2042.50" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="2042.50" x2="773.19" y2="2042.50" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="2029.50" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="2057.04" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="2249.75" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">5. Idea</text>
 <rect x="51.50" y="2319.95" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="125.50" y="2319.95" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -596,6 +636,14 @@
 <rect x="933.36" y="2522.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 2556.26)" />
 <text x="963.89" y="2548.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 2548.10)">LT 15</text>
 <text x="969.41" y="2563.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 2563.26)">✕</text>
+<circle cx="603.00" cy="2479.25" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="2479.25" x2="625.19" y2="2479.25" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="2466.25" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="2493.79" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="2479.25" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="2479.25" x2="773.19" y2="2479.25" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="2466.25" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="2493.79" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="2686.50" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">6. Vim</text>
 <rect x="51.50" y="2756.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <rect x="125.50" y="2756.70" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -680,6 +728,14 @@
 <rect x="933.36" y="2959.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 2993.01)" />
 <text x="963.89" y="2984.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688" transform="rotate(-20.000 963.89 2984.85)">LT 10</text>
 <text x="969.41" y="3000.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20" transform="rotate(-20.000 969.41 3000.01)">✕</text>
+<circle cx="603.00" cy="2916.00" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="2916.00" x2="625.19" y2="2916.00" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="2903.00" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="2930.54" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="2916.00" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="2916.00" x2="773.19" y2="2916.00" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="2903.00" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="2930.54" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="3123.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">7. Fn</text>
 <rect x="51.50" y="3193.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="3218.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
@@ -746,8 +802,8 @@
 <text x="973.00" y="3184.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M12</text>
 <text x="973.00" y="3201.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfBuf</text>
 <rect x="1013.50" y="3152.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="3177.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">M8</text>
-<text x="1047.00" y="3193.70" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">k8s ctx</text>
+<text x="1047.00" y="3177.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M23</text>
+<text x="1047.00" y="3193.70" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfHist</text>
 <rect x="1087.50" y="3160.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="3193.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="3193.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -798,6 +854,14 @@
 <rect x="933.36" y="3396.27" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 3429.77)" />
 <text x="963.89" y="3421.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 3421.60)">LT 10</text>
 <text x="969.41" y="3436.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 3436.76)">✕</text>
+<circle cx="603.00" cy="3352.76" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="3352.76" x2="625.19" y2="3352.76" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="3339.75" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="3367.29" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="3352.76" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="3352.76" x2="773.19" y2="3352.76" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="3339.75" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="3367.29" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="3560.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">Layer 8</text>
 <rect x="51.50" y="3630.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="3655.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
@@ -864,8 +928,8 @@
 <text x="973.00" y="3621.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M12</text>
 <text x="973.00" y="3637.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfBuf</text>
 <rect x="1013.50" y="3589.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="3614.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M8</text>
-<text x="1047.00" y="3630.45" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">k8s ctx</text>
+<text x="1047.00" y="3614.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M23</text>
+<text x="1047.00" y="3630.45" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfHist</text>
 <rect x="1087.50" y="3596.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="3630.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="3630.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -916,6 +980,14 @@
 <rect x="933.36" y="3833.02" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 3866.52)" />
 <text x="963.89" y="3858.35" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 3858.35)">LT 10</text>
 <text x="969.41" y="3873.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 3873.51)">✕</text>
+<circle cx="603.00" cy="3789.51" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="3789.51" x2="625.19" y2="3789.51" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="3776.50" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="3804.04" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="3789.51" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="3789.51" x2="773.19" y2="3789.51" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="3776.50" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="3804.04" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="3996.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">Layer 9</text>
 <rect x="51.50" y="4066.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="4091.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">RuEn</text>
@@ -982,8 +1054,8 @@
 <text x="973.00" y="4058.47" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M12</text>
 <text x="973.00" y="4074.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfBuf</text>
 <rect x="1013.50" y="4026.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="4051.07" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M8</text>
-<text x="1047.00" y="4067.20" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">k8s ctx</text>
+<text x="1047.00" y="4051.07" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M23</text>
+<text x="1047.00" y="4067.20" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfHist</text>
 <rect x="1087.50" y="4033.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="4067.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="4066.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1034,6 +1106,14 @@
 <rect x="933.36" y="4269.77" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 4303.27)" />
 <text x="963.89" y="4295.11" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 4295.11)">LT 10</text>
 <text x="969.41" y="4310.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 4310.26)">✕</text>
+<circle cx="603.00" cy="4226.26" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="4226.26" x2="625.19" y2="4226.26" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="4213.25" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="4240.80" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="4226.26" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="4226.26" x2="773.19" y2="4226.26" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="4213.25" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="4240.79" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="4433.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">Layer 10</text>
 <rect x="51.50" y="4503.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="4537.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">7C01</text>
@@ -1099,8 +1179,8 @@
 <text x="973.00" y="4495.22" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M12</text>
 <text x="973.00" y="4511.35" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfBuf</text>
 <rect x="1013.50" y="4463.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="4487.82" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M8</text>
-<text x="1047.00" y="4503.95" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">k8s ctx</text>
+<text x="1047.00" y="4487.82" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M23</text>
+<text x="1047.00" y="4503.95" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfHist</text>
 <rect x="1087.50" y="4470.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="4503.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="4503.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1151,6 +1231,14 @@
 <rect x="933.36" y="4706.52" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 4740.02)" />
 <text x="963.89" y="4731.86" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 4731.86)">LT 10</text>
 <text x="969.41" y="4747.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 4747.01)">✕</text>
+<circle cx="603.00" cy="4663.01" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="4663.01" x2="625.19" y2="4663.01" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="4650.00" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="4677.55" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="4663.01" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="4663.01" x2="773.19" y2="4663.01" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="4650.00" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="4677.55" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="4870.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">Layer 11</text>
 <rect x="51.50" y="4940.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="4973.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">7C01</text>
@@ -1216,8 +1304,8 @@
 <text x="973.00" y="4931.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M12</text>
 <text x="973.00" y="4948.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfBuf</text>
 <rect x="1013.50" y="4899.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="4924.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M8</text>
-<text x="1047.00" y="4940.70" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">k8s ctx</text>
+<text x="1047.00" y="4924.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M23</text>
+<text x="1047.00" y="4940.70" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfHist</text>
 <rect x="1087.50" y="4907.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="4940.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="4940.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1268,6 +1356,14 @@
 <rect x="933.36" y="5143.27" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 5176.77)" />
 <text x="963.89" y="5168.61" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 5168.61)">LT 10</text>
 <text x="969.41" y="5183.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 5183.76)">✕</text>
+<circle cx="603.00" cy="5099.76" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="5099.76" x2="625.19" y2="5099.76" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="5086.75" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="5114.30" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="5099.76" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="5099.76" x2="773.19" y2="5099.76" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="5086.75" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="5114.30" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="5307.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">Layer 12</text>
 <rect x="51.50" y="5377.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="5410.71" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">7C01</text>
@@ -1333,8 +1429,8 @@
 <text x="973.00" y="5368.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M12</text>
 <text x="973.00" y="5384.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfBuf</text>
 <rect x="1013.50" y="5336.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="5361.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M8</text>
-<text x="1047.00" y="5377.45" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">k8s ctx</text>
+<text x="1047.00" y="5361.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M23</text>
+<text x="1047.00" y="5377.45" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfHist</text>
 <rect x="1087.50" y="5343.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="5377.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="5377.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1385,6 +1481,14 @@
 <rect x="933.36" y="5580.02" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 5613.52)" />
 <text x="963.89" y="5605.36" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 5605.36)">LT 10</text>
 <text x="969.41" y="5620.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 5620.52)">✕</text>
+<circle cx="603.00" cy="5536.51" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="5536.51" x2="625.19" y2="5536.51" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="5523.50" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="5551.05" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="5536.51" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="5536.51" x2="773.19" y2="5536.51" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="5523.50" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="5551.05" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="5743.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">Layer 13</text>
 <rect x="51.50" y="5813.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="5847.46" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">7C01</text>
@@ -1450,8 +1554,8 @@
 <text x="973.00" y="5805.48" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M12</text>
 <text x="973.00" y="5821.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfBuf</text>
 <rect x="1013.50" y="5773.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="5798.08" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M8</text>
-<text x="1047.00" y="5814.20" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">k8s ctx</text>
+<text x="1047.00" y="5798.08" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M23</text>
+<text x="1047.00" y="5814.20" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfHist</text>
 <rect x="1087.50" y="5780.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="5814.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="5813.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1502,6 +1606,14 @@
 <rect x="933.36" y="6016.77" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 6050.27)" />
 <text x="963.89" y="6042.11" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 6042.11)">LT 10</text>
 <text x="969.41" y="6057.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 6057.27)">✕</text>
+<circle cx="603.00" cy="5973.26" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="5973.26" x2="625.19" y2="5973.26" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="5960.25" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="5987.80" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="5973.26" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="5973.26" x2="773.19" y2="5973.26" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="5960.25" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="5987.80" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 <text x="677.00" y="6180.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="18.00" fill="#202024">Layer 14</text>
 <rect x="51.50" y="6250.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="6284.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">7C01</text>
@@ -1567,8 +1679,8 @@
 <text x="973.00" y="6242.23" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M12</text>
 <text x="973.00" y="6258.36" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfBuf</text>
 <rect x="1013.50" y="6210.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="6234.83" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M8</text>
-<text x="1047.00" y="6250.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">k8s ctx</text>
+<text x="1047.00" y="6234.83" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">M23</text>
+<text x="1047.00" y="6250.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">FzfHist</text>
 <rect x="1087.50" y="6217.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1121.00" y="6250.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">Num=</text>
 <rect x="1161.50" y="6250.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1619,4 +1731,12 @@
 <rect x="933.36" y="6453.52" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" transform="rotate(-20.000 966.86 6487.02)" />
 <text x="963.89" y="6478.86" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4" transform="rotate(-20.000 963.89 6478.86)">LT 10</text>
 <text x="969.41" y="6494.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4" transform="rotate(-20.000 969.41 6494.02)">✕</text>
+<circle cx="603.00" cy="6410.01" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="580.81" y1="6410.01" x2="625.19" y2="6410.01" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="603.00" y="6397.00" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="603.00" y="6424.55" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
+<circle cx="751.00" cy="6410.01" r="38.26" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4"/>
+<line x1="728.81" y1="6410.01" x2="773.19" y2="6410.01" stroke="#DEDEE2" stroke-width="1.2" stroke-linecap="round"/>
+<text x="751.00" y="6397.00" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol +</text>
+<text x="751.00" y="6424.55" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="10.50" fill="#BCBCC4">Vol -</text>
 </svg>
