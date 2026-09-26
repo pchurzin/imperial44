@@ -758,13 +758,17 @@
 <rect x="51.50" y="3267.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="3300.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F11</text>
 <rect x="125.50" y="3267.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="159.00" y="3300.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F1</text>
+<text x="159.00" y="3292.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">Super</text>
+<text x="159.00" y="3308.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">F1</text>
 <rect x="199.50" y="3234.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="233.00" y="3267.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F2</text>
+<text x="233.00" y="3258.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">Alt</text>
+<text x="233.00" y="3275.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">F2</text>
 <rect x="273.50" y="3226.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="307.00" y="3260.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F3</text>
+<text x="307.00" y="3251.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">Shift</text>
+<text x="307.00" y="3267.70" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">F3</text>
 <rect x="347.50" y="3234.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="381.00" y="3267.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F4</text>
+<text x="381.00" y="3258.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">Ctrl</text>
+<text x="381.00" y="3275.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">F4</text>
 <rect x="421.50" y="3245.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="455.00" y="3278.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F5</text>
 <rect x="51.50" y="3341.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -815,13 +819,17 @@
 <rect x="865.50" y="3245.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="899.00" y="3278.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F6</text>
 <rect x="939.50" y="3234.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="973.00" y="3267.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F7</text>
+<text x="973.00" y="3258.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">Ctrl</text>
+<text x="973.00" y="3275.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">F7</text>
 <rect x="1013.50" y="3226.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="3260.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F8</text>
+<text x="1047.00" y="3251.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">Shift</text>
+<text x="1047.00" y="3267.70" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">F8</text>
 <rect x="1087.50" y="3234.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1121.00" y="3267.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F9</text>
+<text x="1121.00" y="3258.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">Alt</text>
+<text x="1121.00" y="3275.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">F9</text>
 <rect x="1161.50" y="3267.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="3300.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F10</text>
+<text x="1195.00" y="3292.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#767688">Super</text>
+<text x="1195.00" y="3308.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#1C1C20">F10</text>
 <rect x="1235.50" y="3267.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="3300.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#1C1C20">F12</text>
 <rect x="791.50" y="3319.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -884,13 +892,17 @@
 <rect x="51.50" y="3704.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="3737.71" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F11</text>
 <rect x="125.50" y="3704.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="159.00" y="3737.71" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F1</text>
+<text x="159.00" y="3729.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="159.00" y="3745.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F1</text>
 <rect x="199.50" y="3670.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="233.00" y="3704.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F2</text>
+<text x="233.00" y="3695.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="233.00" y="3711.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F2</text>
 <rect x="273.50" y="3663.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="307.00" y="3697.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F3</text>
+<text x="307.00" y="3688.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="307.00" y="3704.45" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F3</text>
 <rect x="347.50" y="3670.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="381.00" y="3704.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F4</text>
+<text x="381.00" y="3695.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="381.00" y="3711.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F4</text>
 <rect x="421.50" y="3682.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="455.00" y="3715.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F5</text>
 <rect x="51.50" y="3778.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -941,13 +953,17 @@
 <rect x="865.50" y="3682.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="899.00" y="3715.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F6</text>
 <rect x="939.50" y="3670.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="973.00" y="3704.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F7</text>
+<text x="973.00" y="3695.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="973.00" y="3711.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F7</text>
 <rect x="1013.50" y="3663.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="3697.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F8</text>
+<text x="1047.00" y="3688.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="1047.00" y="3704.45" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F8</text>
 <rect x="1087.50" y="3670.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1121.00" y="3704.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F9</text>
+<text x="1121.00" y="3695.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="1121.00" y="3711.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F9</text>
 <rect x="1161.50" y="3704.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="3737.71" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F10</text>
+<text x="1195.00" y="3729.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="1195.00" y="3745.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F10</text>
 <rect x="1235.50" y="3704.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="3737.71" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F12</text>
 <rect x="791.50" y="3756.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1010,13 +1026,17 @@
 <rect x="51.50" y="4140.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="4174.46" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F11</text>
 <rect x="125.50" y="4140.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="159.00" y="4174.46" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F1</text>
+<text x="159.00" y="4165.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="159.00" y="4181.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F1</text>
 <rect x="199.50" y="4107.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="233.00" y="4141.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F2</text>
+<text x="233.00" y="4132.47" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="233.00" y="4148.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F2</text>
 <rect x="273.50" y="4100.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="307.00" y="4133.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F3</text>
+<text x="307.00" y="4125.07" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="307.00" y="4141.20" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F3</text>
 <rect x="347.50" y="4107.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="381.00" y="4141.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F4</text>
+<text x="381.00" y="4132.47" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="381.00" y="4148.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F4</text>
 <rect x="421.50" y="4118.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="455.00" y="4152.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F5</text>
 <rect x="51.50" y="4214.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1067,13 +1087,17 @@
 <rect x="865.50" y="4118.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="899.00" y="4152.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F6</text>
 <rect x="939.50" y="4107.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="973.00" y="4141.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F7</text>
+<text x="973.00" y="4132.47" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="973.00" y="4148.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F7</text>
 <rect x="1013.50" y="4100.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="4133.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F8</text>
+<text x="1047.00" y="4125.07" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="1047.00" y="4141.20" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F8</text>
 <rect x="1087.50" y="4107.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1121.00" y="4141.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F9</text>
+<text x="1121.00" y="4132.47" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="1121.00" y="4148.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F9</text>
 <rect x="1161.50" y="4140.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="4174.46" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F10</text>
+<text x="1195.00" y="4165.77" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="1195.00" y="4181.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F10</text>
 <rect x="1235.50" y="4140.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="4174.46" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F12</text>
 <rect x="791.50" y="4192.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1135,13 +1159,17 @@
 <rect x="51.50" y="4577.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="4611.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F11</text>
 <rect x="125.50" y="4577.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="159.00" y="4611.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F1</text>
+<text x="159.00" y="4602.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="159.00" y="4618.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F1</text>
 <rect x="199.50" y="4544.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="233.00" y="4577.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F2</text>
+<text x="233.00" y="4569.22" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="233.00" y="4585.35" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F2</text>
 <rect x="273.50" y="4537.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="307.00" y="4570.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F3</text>
+<text x="307.00" y="4561.82" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="307.00" y="4577.95" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F3</text>
 <rect x="347.50" y="4544.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="381.00" y="4577.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F4</text>
+<text x="381.00" y="4569.22" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="381.00" y="4585.35" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F4</text>
 <rect x="421.50" y="4555.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="455.00" y="4589.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F5</text>
 <rect x="51.50" y="4651.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1192,13 +1220,17 @@
 <rect x="865.50" y="4555.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="899.00" y="4589.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F6</text>
 <rect x="939.50" y="4544.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="973.00" y="4577.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F7</text>
+<text x="973.00" y="4569.22" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="973.00" y="4585.35" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F7</text>
 <rect x="1013.50" y="4537.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="4570.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F8</text>
+<text x="1047.00" y="4561.82" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="1047.00" y="4577.95" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F8</text>
 <rect x="1087.50" y="4544.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1121.00" y="4577.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F9</text>
+<text x="1121.00" y="4569.22" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="1121.00" y="4585.35" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F9</text>
 <rect x="1161.50" y="4577.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="4611.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F10</text>
+<text x="1195.00" y="4602.52" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="1195.00" y="4618.65" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F10</text>
 <rect x="1235.50" y="4577.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="4611.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F12</text>
 <rect x="791.50" y="4629.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1260,13 +1292,17 @@
 <rect x="51.50" y="5014.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="5047.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F11</text>
 <rect x="125.50" y="5014.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="159.00" y="5047.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F1</text>
+<text x="159.00" y="5039.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="159.00" y="5055.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F1</text>
 <rect x="199.50" y="4981.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="233.00" y="5014.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F2</text>
+<text x="233.00" y="5005.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="233.00" y="5022.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F2</text>
 <rect x="273.50" y="4973.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="307.00" y="5007.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F3</text>
+<text x="307.00" y="4998.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="307.00" y="5014.70" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F3</text>
 <rect x="347.50" y="4981.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="381.00" y="5014.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F4</text>
+<text x="381.00" y="5005.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="381.00" y="5022.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F4</text>
 <rect x="421.50" y="4992.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="455.00" y="5025.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F5</text>
 <rect x="51.50" y="5088.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1317,13 +1353,17 @@
 <rect x="865.50" y="4992.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="899.00" y="5025.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F6</text>
 <rect x="939.50" y="4981.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="973.00" y="5014.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F7</text>
+<text x="973.00" y="5005.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="973.00" y="5022.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F7</text>
 <rect x="1013.50" y="4973.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="5007.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F8</text>
+<text x="1047.00" y="4998.57" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="1047.00" y="5014.70" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F8</text>
 <rect x="1087.50" y="4981.16" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1121.00" y="5014.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F9</text>
+<text x="1121.00" y="5005.97" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="1121.00" y="5022.10" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F9</text>
 <rect x="1161.50" y="5014.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="5047.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F10</text>
+<text x="1195.00" y="5039.27" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="1195.00" y="5055.40" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F10</text>
 <rect x="1235.50" y="5014.46" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="5047.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F12</text>
 <rect x="791.50" y="5066.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1385,13 +1425,17 @@
 <rect x="51.50" y="5451.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="5484.71" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F11</text>
 <rect x="125.50" y="5451.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="159.00" y="5484.71" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F1</text>
+<text x="159.00" y="5476.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="159.00" y="5492.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F1</text>
 <rect x="199.50" y="5417.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="233.00" y="5451.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F2</text>
+<text x="233.00" y="5442.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="233.00" y="5458.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F2</text>
 <rect x="273.50" y="5410.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="307.00" y="5444.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F3</text>
+<text x="307.00" y="5435.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="307.00" y="5451.45" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F3</text>
 <rect x="347.50" y="5417.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="381.00" y="5451.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F4</text>
+<text x="381.00" y="5442.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="381.00" y="5458.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F4</text>
 <rect x="421.50" y="5429.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="455.00" y="5462.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F5</text>
 <rect x="51.50" y="5525.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1442,13 +1486,17 @@
 <rect x="865.50" y="5429.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="899.00" y="5462.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F6</text>
 <rect x="939.50" y="5417.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="973.00" y="5451.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F7</text>
+<text x="973.00" y="5442.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="973.00" y="5458.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F7</text>
 <rect x="1013.50" y="5410.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="5444.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F8</text>
+<text x="1047.00" y="5435.32" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="1047.00" y="5451.45" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F8</text>
 <rect x="1087.50" y="5417.91" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1121.00" y="5451.41" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F9</text>
+<text x="1121.00" y="5442.72" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="1121.00" y="5458.85" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F9</text>
 <rect x="1161.50" y="5451.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="5484.71" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F10</text>
+<text x="1195.00" y="5476.02" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="1195.00" y="5492.15" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F10</text>
 <rect x="1235.50" y="5451.21" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="5484.71" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F12</text>
 <rect x="791.50" y="5503.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1510,13 +1558,17 @@
 <rect x="51.50" y="5887.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="5921.46" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F11</text>
 <rect x="125.50" y="5887.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="159.00" y="5921.46" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F1</text>
+<text x="159.00" y="5912.78" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="159.00" y="5928.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F1</text>
 <rect x="199.50" y="5854.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="233.00" y="5888.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F2</text>
+<text x="233.00" y="5879.48" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="233.00" y="5895.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F2</text>
 <rect x="273.50" y="5847.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="307.00" y="5880.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F3</text>
+<text x="307.00" y="5872.08" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="307.00" y="5888.20" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F3</text>
 <rect x="347.50" y="5854.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="381.00" y="5888.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F4</text>
+<text x="381.00" y="5879.48" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="381.00" y="5895.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F4</text>
 <rect x="421.50" y="5865.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="455.00" y="5899.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F5</text>
 <rect x="51.50" y="5961.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1567,13 +1619,17 @@
 <rect x="865.50" y="5865.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="899.00" y="5899.26" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F6</text>
 <rect x="939.50" y="5854.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="973.00" y="5888.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F7</text>
+<text x="973.00" y="5879.48" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="973.00" y="5895.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F7</text>
 <rect x="1013.50" y="5847.26" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="5880.76" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F8</text>
+<text x="1047.00" y="5872.08" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="1047.00" y="5888.20" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F8</text>
 <rect x="1087.50" y="5854.66" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1121.00" y="5888.16" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F9</text>
+<text x="1121.00" y="5879.48" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="1121.00" y="5895.60" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F9</text>
 <rect x="1161.50" y="5887.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="5921.46" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F10</text>
+<text x="1195.00" y="5912.78" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="1195.00" y="5928.90" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F10</text>
 <rect x="1235.50" y="5887.96" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="5921.46" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F12</text>
 <rect x="791.50" y="5939.76" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1635,13 +1691,17 @@
 <rect x="51.50" y="6324.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="85.00" y="6358.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F11</text>
 <rect x="125.50" y="6324.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="159.00" y="6358.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F1</text>
+<text x="159.00" y="6349.53" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="159.00" y="6365.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F1</text>
 <rect x="199.50" y="6291.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="233.00" y="6324.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F2</text>
+<text x="233.00" y="6316.23" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="233.00" y="6332.36" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F2</text>
 <rect x="273.50" y="6284.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="307.00" y="6317.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F3</text>
+<text x="307.00" y="6308.83" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="307.00" y="6324.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F3</text>
 <rect x="347.50" y="6291.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="381.00" y="6324.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F4</text>
+<text x="381.00" y="6316.23" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="381.00" y="6332.36" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F4</text>
 <rect x="421.50" y="6302.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="455.00" y="6336.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F5</text>
 <rect x="51.50" y="6398.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
@@ -1692,13 +1752,17 @@
 <rect x="865.50" y="6302.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="899.00" y="6336.01" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F6</text>
 <rect x="939.50" y="6291.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="973.00" y="6324.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F7</text>
+<text x="973.00" y="6316.23" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Ctrl</text>
+<text x="973.00" y="6332.36" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F7</text>
 <rect x="1013.50" y="6284.01" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1047.00" y="6317.51" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F8</text>
+<text x="1047.00" y="6308.83" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Shift</text>
+<text x="1047.00" y="6324.96" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F8</text>
 <rect x="1087.50" y="6291.41" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1121.00" y="6324.91" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F9</text>
+<text x="1121.00" y="6316.23" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Alt</text>
+<text x="1121.00" y="6332.36" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F9</text>
 <rect x="1161.50" y="6324.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
-<text x="1195.00" y="6358.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F10</text>
+<text x="1195.00" y="6349.53" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="11.17" fill="#BCBCC4">Super</text>
+<text x="1195.00" y="6365.66" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="14.89" fill="#BCBCC4">F10</text>
 <rect x="1235.50" y="6324.71" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
 <text x="1269.00" y="6358.21" text-anchor="middle" dominant-baseline="central" font-family="Inter, Arial, sans-serif" font-size="15.39" fill="#BCBCC4">F12</text>
 <rect x="791.50" y="6376.51" width="67.00" height="67.00" rx="7" ry="7" fill="#FFFFFF" stroke="#DEDEE2" stroke-width="1.4" />
