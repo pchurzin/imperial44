@@ -2,7 +2,7 @@
   "format": "entropy.layout",
   "version": 7,
   "created_by": "Entropy",
-  "created_at": "2026-11-20T21:29:39.352792836+03:00",
+  "created_at": "2026-11-21T18:08:36.814724403+03:00",
   "keyboard": {
     "name": "Imperial44 v3/v4",
     "firmware": "Vial",
@@ -1903,7 +1903,7 @@
     },
     "macros": {
       "bytecode_base64": [
-        "AQLiAQLhAQPhAQPi",
+        "AQUsCA==",
         "AQLnAQLmAQLhAQPhAQPmAQPn",
         "AQLnAQLmAQLlAQPlAQPmAQPn",
         "AQExAQEo",
@@ -2593,7 +2593,7 @@
         {
           "on_tap": 0,
           "on_hold": 0,
-          "on_double_tap": 32265,
+          "on_double_tap": 30464,
           "on_tap_hold": 0,
           "tapping_term": 200
         },

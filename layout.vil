@@ -1225,14 +1225,8 @@
   "macro": [
     [
       [
-        "down",
-        "KC_LALT",
-        "KC_LSHIFT"
-      ],
-      [
-        "up",
-        "KC_LSHIFT",
-        "KC_LALT"
+        "tap",
+        "LGUI(KC_SPACE)"
       ]
     ],
     [
@@ -1712,7 +1706,7 @@
     [
       "KC_NO",
       "KC_NO",
-      "USER09",
+      "M0",
       "KC_NO",
       200
     ],
